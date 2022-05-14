@@ -1,0 +1,146 @@
+.encabezado {
+
+    margin: 5;
+    background: #06645e;
+    text-align: left;
+    font-size: xx-small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Cambria', serif;
+    width: 100%;
+    height: 30px;
+    padding: 3px 10px;
+    color: #ffffff;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0px;
+}
+
+
+div {
+
+    background: #ffffff;
+    width: 400px;
+    height: 900px;
+    position: relative;
+    top: 2px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    float: left;
+    margin: 10px 10px;
+    border: 1px solid #868686;
+    border-radius: 10px;
+}
+
+img {
+
+    width: 300px;
+    height: auto;
+    margin: auto;
+    display: block;
+    border-radius: 10px;
+    position: relative;
+    top: 40px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
+}
+
+.fondo {
+
+    background: #231F20;
+    width: 400px;
+    height: 900px;
+    position: relative;
+    top: 2px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    float: left;
+    margin: 10px 10px;
+    border: 1px solid #868686;
+    border-radius: 10px;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: cursive;
+    color: #ffffff;
+    text-align: center;
+    position: relative;
+    top: 35px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
+}
+
+.linea {
+
+    margin: 0px 15px;
+    background: #ffffff;
+    height: 2px;
+    position: relative;
+    top: 35px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.yo {
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Cambria', serif;
+    color: #ffffff;
+    position: relative;
+    top: 30px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding: 0px 20px;
+}
+
+.icons {
+    width: 40px;
+    height: auto;
+    margin: 0px 5px;
+    display: block;
+    position: relative;
+    top: 18px;
+    bottom: 0;
+    right: 0;
+    left: 10px;
+
+}
+
+.caja {
+    width: 290px;
+    height: 180px;
+    display: block;
+    position: relative;
+    top: -180px;
+    bottom: 0;
+    right: 0;
+    left: 70px;
+    color: #ffffff;
+    background: #231F20;
+    text-align: center;
+    font-family: cursive;
+    line-height: 23px;
+    font-size: 13px;
+    padding: 0px 1px;
+
+}
+
+a{
+
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover{
+    
+    background: #06645e;
+    
+}
