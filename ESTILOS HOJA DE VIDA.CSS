@@ -16,6 +16,8 @@
     left: 0px;
 }
 
+/*CAJA LATERAL IZQUIERDA*/
+
 
 div {
 
@@ -133,14 +135,103 @@ h3 {
 
 }
 
-a{
+a {
 
     color: #ffffff;
     text-decoration: none;
 }
 
-a:hover{
-    
+a:hover {
+
     background: #06645e;
-    
+
+}
+
+
+/*CAJA DE ENMEDIO*/
+
+.experiencia {
+    background: #5e0017;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Cambria', serif;
+    color: #ffffff;
+    text-align: center;
+
+}
+
+.trabajo {
+
+    text-align: center;
+    color: #5e0017;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Cambria', serif;
+}
+
+.contexto {
+    margin: 0px 15px;
+    font-size: 14px;
+    font-family: cursive;
+
+}
+
+.separacion {
+    margin: 0px 15px;
+    background: #5e0017;
+    height: 2px;
+    position: relative;
+    top: 5px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
+}
+
+.separacion dos {
+    margin: 0px 15px;
+    background: #5e0017;
+    height: 2px;
+    position: relative;
+    top: 5px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
+}
+
+.cierre {
+
+    margin: 0px 15px;
+    background: #5e0017;
+    height: 20px;
+    position: relative;
+    top: 5px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+
+/*CAJA LATERAL DERECHA*/
+
+.estudios {
+
+    background: #5e0017;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Cambria', serif;
+    color: #ffffff;
+    text-align: center;
+}
+
+.nivel {
+
+    background: #06645e;
+    font-size: 18px;
+    color: #ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Cambria', serif;
+    text-align: center;
+    position: relative;
+    top: 15px;
+    bottom: 0;
+    right: 0;
+    left: 0;
 }
